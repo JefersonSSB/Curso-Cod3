@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jerson Silva Santos",
+      "email": "jefersonsilvasantos_@hotmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Diego Teixeira",
+      "email": "ogeideixe@gmail.com2"
+    },
+    {
+      "name": "Jeferson",
+      "email": "Jefersonsilvasantos_@hotmail.com",
+      "id": 4
+    },
+    {
+      "name": "Jeferson",
+      "email": "Jefersonsilvasantos_@hotmail.com",
+      "id": 5
+    },
+    {
+      "name": "Jeferson Silva Santos Batista",
+      "email": "admin@cdl",
+      "id": 8
+    },
+    {
+      "name": "Jeferson Silva Santos Batista",
+      "email": "admin@cdl",
+      "id": 9
+    },
+    {
+      "name": "asd",
+      "email": "ad",
+      "id": 10
+    },
+    {
+      "name": "sdf",
+      "email": "sdf",
+      "id": 11
+    }
+  ]
+}
