@@ -3,8 +3,7 @@ import { MatSnackBar } from '@angular/material/snack-bar'
 import { HttpClient } from '@angular/common/http';
 import { User } from './user.model';
 import { Observable, EMPTY } from 'rxjs';
-import { map, catchError } from 'rxjs/Operators';
-import { isError } from 'util';
+import { map, catchError } from 'rxjs/operators';
 
 @Injectable({
   providedIn: 'root'
